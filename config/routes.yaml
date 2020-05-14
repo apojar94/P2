@@ -13,6 +13,10 @@ cristea_ioan:
 bunulescu_stefan:
    path: /bunulescu_stefan
    controller: App\Controller\BunulescuStefan::index
+   
+nelega_claudia:
+   path: /nelega_claudia
+   controller: App\Controller\NelegaClaudia::index
 
 blog_first_page:
   path: /blog
