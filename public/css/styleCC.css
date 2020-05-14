@@ -16,8 +16,3 @@ body {
     padding: 40px 24px;
     background-color: #b5c1c242;
 }
-.container:after {
-    content: '';
-    display: table;
-    clear: both;
-} 
