@@ -66,6 +66,10 @@ denis_padureanu:
   path: /denis_padureanu
   controller: App\Controller\PadureanuDenis::number
 
+teoc_lucian:
+  path: /teoc_lucian
+  controller: App\Controller\TeocLucianController::personalPage
+
 catalinRoute:
     path: /catalinchinchisan
     controller: App\Controller\catalinCtrl::init 
